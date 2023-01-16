@@ -17,7 +17,7 @@ I'm Jhon Vargas, a keen practitioner of Data Science and technical leader.
 - I’m interested to deploy applied predictive analytics, contribute on machine learning projects related to Natural Language Processing and use statistics to solve real problems. 
 - You can contact me in my personal email: jhon.vargasr@gmail.com for any queries or by <a href="www.linkedin.com/in/yonkeenn/" target="_blank">linkedin</a>.
 
-> My vision is to try to humanize the mathematical models of machine learning in order to improve the life style of the society.
+> "My vision is to try to humanize the mathematical models of machine learning in order to improve the life style of the society".
 
 ## #Techs
 
