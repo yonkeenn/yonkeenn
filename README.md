@@ -20,4 +20,4 @@ I'm Jhon Vargas, a keen practitioner of Data Science and technical leader.
 
 ## #Techs
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com){target="_blank" rel="noopener"}
